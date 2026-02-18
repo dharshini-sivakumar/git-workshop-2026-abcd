@@ -12,4 +12,5 @@ Use this template:
 ```
 
 # Contributors
+[Dharshini Sivakumar](https://github.com/dharshini-sivakumar)
 
